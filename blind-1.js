@@ -14,7 +14,6 @@ const twoNumbersAddition = (numbers, target) => {
             hashMap[number] = index
         }
     })
-
     return result
 }
 
